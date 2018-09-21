@@ -27,5 +27,7 @@
   - [@kellyselden](https://twitter.com/kellyselden)
 - "It's Easy to Measure Performance in Ember" by Jordan Hawker
   - [@JordanHawker](https://twitter.com/JordanHawker)
+  - [Slides](https://jhawk.co/embercamp-interactivity)
+  - [Demo](http://jhawk.co/interactivity-demo)
 - Closing Keynote by Jen Weber
   - [@jwwweber](https://twitter.com/jwwweber)
