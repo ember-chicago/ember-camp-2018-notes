@@ -29,5 +29,6 @@
   - [@JordanHawker](https://twitter.com/JordanHawker)
   - [Slides](https://jhawk.co/embercamp-interactivity)
   - [Demo](http://jhawk.co/interactivity-demo)
-- Closing Keynote by Jen Weber
+- Keynote: "Monster of the Week" by Jen Weber
   - [@jwwweber](https://twitter.com/jwwweber)
+  - [slides](http://tinyurl.com/embercamp-jen)
