@@ -27,6 +27,8 @@
   - [@kellyselden](https://twitter.com/kellyselden)
 - "It's Easy to Measure Performance in Ember" by Jordan Hawker
   - [@JordanHawker](https://twitter.com/JordanHawker)
+  - [Slides](https://jhawk.co/embercamp-interactivity)
+  - [Demo](http://jhawk.co/interactivity-demo)
 - Keynote: "Monster of the Week" by Jen Weber
   - [@jwwweber](https://twitter.com/jwwweber)
   - [slides](http://tinyurl.com/embercamp-jen)
